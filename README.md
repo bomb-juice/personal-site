@@ -11,3 +11,6 @@ A personal site that gives you a bit of information of who Bomb Juice is and wha
 # Language/Files used
 - HTML
 - CSS
+# Links
+Demo:
+Repo: https://github.com/bomb-juice/personal-site.git

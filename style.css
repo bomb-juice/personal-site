@@ -1,46 +1,60 @@
-body {
-    background-color: #9c0000;
+body{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: absolute;
+    backdrop-filter:blur(10px);
 }
 
 h1{
-    font-family: 'Arial', sans-serif;
+    text-shadow: 0px 0px 20px;
+    font-family: 'Roboto';
+    font-weight: 600;
     text-align: center;
     font-size: 60 px;
     margin-bottom: 30px;
-    }
+    color: white
+}
 
 h2{
-    font-family: 'Arial', sans-serif;
+    text-shadow: 0px 0px 20px;
+    font-family: 'Roboto', sans-serif;
     text-align: center;
     font-size: 48 px;
+    color: white
 }
 
 h3{
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 36 px;
+    color: white
 }
 
 a{
     text-align: center;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: inherit;
     text-decoration: none;
 }
 
 nav{
     text-align: center;
+    color: white
 }
 
 
 p{
-    font-family: 'Arial', sans-serif;
+    font-family: 'Montserrat';
     font-size: 24 px;
     text-align: center;
+    color: white
 }
 
 p1{
-    font-family: 'Arial', sans-serif;
+    font-family: 'Montserrat';
     font-size: 24 px;
+    color: white
 }
 
 .image{
@@ -72,5 +86,5 @@ hr{
 
 .links{
     text-align: center;
-    color:#9594a1
+    color:#1e09ff
 }

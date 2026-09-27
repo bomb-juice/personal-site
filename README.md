@@ -12,5 +12,5 @@ A personal site that gives you a bit of information of who Bomb Juice is and wha
 - HTML
 - CSS
 # Links
-Demo:https://bomb-juice.github.io/personal-site/
-Repo: https://github.com/bomb-juice/personal-site.git
+- Demo:https://bomb-juice.github.io/personal-site/
+- Repo: https://github.com/bomb-juice/personal-site.git
